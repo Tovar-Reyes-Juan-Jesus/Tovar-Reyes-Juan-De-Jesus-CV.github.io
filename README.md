@@ -1,6 +1,6 @@
 # Tovar-Reyes-Juan-De-Jesus-CV.github.io
 
-# Juan de Jesus Tovar Reyes
+# CV Juan de Jesus Tovar Reyes
 
 ## Resumen
 
