@@ -6,15 +6,8 @@
 
 Soy un(a) Ingeniero en sistemas computacionales con experiencia en el campo de base de datos. Me especializo en creacion y manejo de bases de datos, y he trabajado en breve proyectos sobre crear nuevos sistemas para ciertas empresas. Mi enfoque se centra en hacer un trabajo justo entre yo y la empresa y acpetando tratos justos como tambien para el cliente.
 
-## Experiencia Laboral
+![Tecnologico Superior de Jalisco](LogoUNI.png)
 
-### [Nombre de la Empresa] - [Cargo] (Fecha de Inicio - Fecha de Fin)
-
-- Descripción breve de las responsabilidades y logros clave.
-
-### [Nombre de la Empresa] - [Cargo] (Fecha de Inicio - Fecha de Fin)
-
-- Descripción breve de las responsabilidades y logros clave.
 
 ## Educación
 
