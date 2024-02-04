@@ -23,13 +23,6 @@ Soy un(a) Ingeniero en sistemas computacionales con experiencia en el campo de b
 - Manejo en DB como MySQL, SQL server, Oracle.
 - Conocimientos basicos en calculo Integral y Diferencial.
 
-## Proyectos Destacados
-
-### [Nombre del Proyecto]
-
-- Breve descripción del proyecto y tu papel en él.
-- Enlace al proyecto o a la documentación relevante.
-
 ## Contacto
 
 - Correo: za210110162@zapopan.tecmm.edu.mx
@@ -41,5 +34,5 @@ Soy un(a) Ingeniero en sistemas computacionales con experiencia en el campo de b
 
 ## Certificaciones
 
-- Lista de certificaciones relevantes que posees.
+- Ingeniero en Sistemas Computacionales.
 
